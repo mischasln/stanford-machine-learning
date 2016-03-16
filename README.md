@@ -4,8 +4,7 @@
 
 This repo contains my solution of practical assignments in [2015 Coursera Machine Learning Class](https://www.coursera.org/learn/machine-learning).
 If you are taking the class, feel free to fork my repo and put different solutions in a different branch.
-HOWEVER, please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Stanford Honor Code" below.
-Questions or pointing out is always welcome, please send me a mail.
+HOWEVER, please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Coursera Honor Code" below. Questions or pointing out is always welcome, please send me an e-mail.
 
 # About this Course
 
